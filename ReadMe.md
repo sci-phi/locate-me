@@ -7,6 +7,10 @@ A simple iPhone app with which the user can find the coordinates for their curre
 
 	CoreLocation, MapKit, UIAlertView, UIToolbar, and UILabel.
 
-License
+== Requirements
 
-	This source code is released to the public domain with no warranty of fitness
+* RubyMotion 1.0 or greater (see http://www.rubymotion.com).
+
+== License
+
+* Released under the MIT license.
